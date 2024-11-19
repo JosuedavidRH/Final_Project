@@ -1,0 +1,4 @@
+la carpeta que esta marcada como "tcpdf2" esta desactualizada incompatiple 
+para el hosting de siteground,por tal motivo en el curso se recomienda
+actualizar esta libreria,de esta manera la carpeta de nombre tcpdf esta
+actualizada y lista para ser usada en el hosting
